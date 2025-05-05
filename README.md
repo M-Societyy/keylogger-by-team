@@ -23,6 +23,7 @@ Este software es solo para fines educativos y debe usarse ÚNICAMENTE con consen
 ## Uso
 Ejecuta el script:
 ```bash
+pip install requirements.txt
 python keylogger.py
 ```
 
