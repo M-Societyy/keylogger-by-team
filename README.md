@@ -35,10 +35,3 @@ python keylogger.py
 ## Notas legales
 El desarrollador no se hace responsable del mal uso de este software. Usa bajo tu propio riesgo y siempre con consentimiento.
 ```
-
-### 2. requirements.txt
-
-```
-pynput==1.7.6
-dhooks==1.1.4
-```
